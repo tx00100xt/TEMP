@@ -1,4 +1,7 @@
 # v2rayN Windows XP
+[![License: GPL v3](https://img.shields.io/badge/License-GPL_v3-blue.svg)](https://www.gnu.org/licenses/quick-guide-gplv3.en.html)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/tx00100xt/v2rayN-Windows-XP)](https://github.com/tx00100xt/v2rayN-Windows-XP/releases/tag/2.30)
+[![Github downloads](https://img.shields.io/github/downloads/tx00100xt/v2rayN-Windows-XP/total.svg?logo=github&logoColor=white&style=flat-square&color=E75776)](https://github.com/tx00100xt/v2rayN-Windows-XP/releases/)
 
 A GUI client for Windows XP, support v2ray-core with protocols Shadowsocks, VLESS, VMess.
 
